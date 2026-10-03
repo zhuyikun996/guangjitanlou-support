@@ -1,10 +1,10 @@
 # 光迹探楼 · Privacy Policy
 
-Pre-release draft · Last updated: October 3, 2026
+Last updated: October 4, 2026
 
 ## Scope and contact
 
-This policy describes data handling for version 1.0.0 of the 光迹探楼 (Guang Ji Tan Lou) iOS app, this support website and support email. Contact the app developer at zusk66@gmail.com for privacy questions. This is a draft prepared for the first App Store release and will be checked against the final build before release.
+This policy describes data handling for version 1.0.0 of the 光迹探楼 (Guang Ji Tan Lou) iOS app, this support website and support email. The app developer is Zhu Yikun (朱毅坤). Contact us at zusk66@gmail.com for privacy questions.
 
 ## Data handled by the app
 
@@ -20,11 +20,11 @@ When you actively use the system share sheet and choose a destination, the analy
 
 ## External links and this website
 
-Opening the official drawing-source link opens the system browser. External sites may process IP addresses and other access information under their own policies. This privacy and support website is hosted on GitHub Pages. We add no analytics scripts, advertising, forms, tracking cookies or third-party fonts to these pages. GitHub may process visitor logs, including IP addresses, to provide and protect its hosting service. See the GitHub Privacy Statement: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement . Core sunlight calculations do not depend on these webpages.
+Opening a privacy, support or official drawing-source link opens the system browser. External sites may process IP addresses and other access information under their own policies. This privacy and support website is hosted on GitHub Pages. We add no analytics scripts, advertising, forms, tracking cookies or third-party fonts to these pages. GitHub may process visitor logs, including IP addresses, to provide and protect its hosting service. See the GitHub Privacy Statement: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement . Core sunlight calculations do not depend on these webpages.
 
 ## Support email
 
-If you email us, we process the email address, message and any screenshots or other information you voluntarily provide to respond and resolve your request. Email is handled through Gmail. Please do not send passwords, verification codes or unrelated sensitive information. Support messages are normally retained for up to 12 months after resolution, then deleted or de-identified, unless retention is required by law. You can email us to request access, correction or deletion. We will verify and handle requests within applicable legal time limits.
+If you email us, we process the email address, message and any screenshots or other information you voluntarily provide to respond and resolve your request. Email is handled through Gmail. Please do not send passwords, verification codes or unrelated sensitive information. Support information is retained only as long as needed to respond, resolve the request and fulfill legal obligations, then deleted or de-identified when no longer needed. You can email us to request access, correction or deletion. We will verify and handle requests within applicable legal time limits.
 
 ## System services and permissions
 
@@ -36,4 +36,4 @@ The app is not specifically directed at children and does not collect children�
 
 ## Changes
 
-We will update the date and content of this page if functionality or data handling changes and provide additional notice through the app or release information where necessary. Before the first release, refer to the final policy checked against the shipping build.
+We will update the date and content of this page if functionality or data handling changes and provide additional notice through the app or release information where necessary.
