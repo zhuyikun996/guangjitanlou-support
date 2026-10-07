@@ -1,9 +1,5 @@
-# 光迹探楼 · 隐私与支持
+# Guang Ji Tan Lou - Privacy and Support
 
-首次 App Store 上架准备的中英文隐私政策与支持页面。当前版本 1.0.0，客服邮箱：zusk66@gmail.com。
+Public support and privacy pages for versions 1.0.0 and 1.1.0. The 1.1.0 dataset contains seven properties and 88 selectable buildings in Beijing, China.
 
-- `privacy-zh.html` / `privacy-en.html`：公开隐私政策。
-- `support-zh.html` / `support-en.html`：公开支持页面。
-- 对应 Markdown 文件便于审阅；更新时需同步 HTML。
-
-使用 GitHub Pages：选择 main 分支、根目录发布。站点不包含应用源代码、签名材料或私密审核联系人信息。应用功能或数据处理发生变化时，同步更新中英文政策。
+Contact: zusk66@gmail.com. HTML and Markdown pages are maintained together. The site contains no app code, signing materials, review contact details, analytics or tracking scripts.
