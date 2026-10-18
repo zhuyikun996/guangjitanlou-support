@@ -16,7 +16,7 @@ Email: zusk66@gmail.com. Send bug reports, suggestions or requests concerning in
 
 ## Current coverage
 
-The app is free. Its interface is currently in Simplified Chinese and version 1.1.0 includes seven properties and 88 selectable buildings in Shijingshan, Beijing, China. It does not include U.S. properties or worldwide property search. Requires iOS / iPadOS 17 or later. Calculations use December 21, 2025 and June 21, 2026; displayed times use Beijing time (UTC+8).
+The app is free. Its interface is currently in Simplified Chinese and version 1.2.0 includes fourteen properties and 180 selectable buildings across several districts of Beijing, China (available after approval; actual coverage depends on the installed version). It does not include U.S. properties or worldwide property search. Requires iOS / iPadOS 17 or later. Calculations use December 21, 2025 and June 21, 2026; displayed times use Beijing time (UTC+8).
 
 
 

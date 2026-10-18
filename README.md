@@ -1,5 +1,3 @@
-# Guang Ji Tan Lou - Privacy and Support
+# 光迹探楼公开支持页面
 
-Public support and privacy pages for versions 1.0.0 and 1.1.0. The 1.1.0 dataset contains seven properties and 88 selectable buildings in Beijing, China.
-
-Contact: zusk66@gmail.com. HTML and Markdown pages are maintained together. The site contains no app code, signing materials, review contact details, analytics or tracking scripts.
+1.2.0 更新材料：14 个楼盘、180 栋可选楼宇。页面说明新版本审核通过后提供，以当前安装版本为准。客服邮箱、离线分析与隐私处理方式不变。
